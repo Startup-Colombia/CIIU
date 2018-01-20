@@ -1,0 +1,22 @@
+{
+  "name": "ciiu",
+  "version": "0.0.1",
+  "description": "Clasificacion CIIU",
+  "keywords": [
+    "CIIU",
+    "clasificación CIIU"
+  ],
+  "files": [
+    "CIIU.json",
+    "CIIU.txt",
+    "script.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "author": "Carlos Galarza <carloslfu@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Startup-Colombia/CIIU"
+  },
+  "license": "MIT"
+}
