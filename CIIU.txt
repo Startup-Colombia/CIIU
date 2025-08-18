@@ -314,7 +314,8 @@ División 31. Fabricación de muebles, colchones y somieres.
 3120 Fabricación de colchones y somieres.
 División 32. Otras industrias manufactureras.
 321 Fabricación de joyas, bisutería y artículos conexos.
-3210 Fabricación de joyas, bisutería y artículos conexos.
+3211 Fabricación de joyas y artículos conexos.
+3212 Fabricación de bisutería y artículos conexos.
 322 Fabricación de instrumentos musicales.
 3220 Fabricación de instrumentos musicales.
 323 Fabricación de artículos y equipo para la práctica del deporte.
