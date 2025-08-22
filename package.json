@@ -1,10 +1,12 @@
 {
   "name": "ciiu",
-  "version": "0.0.1",
-  "description": "Clasificacion CIIU",
+  "version": "0.0.5",
+  "description": "Clasificación CIIU - Colombia",
+  "main": "CIIU.json",
   "keywords": [
     "CIIU",
-    "clasificación CIIU"
+    "clasificación CIIU",
+    "Colombia"
   ],
   "files": [
     "CIIU.json",
